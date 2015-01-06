@@ -4,3 +4,4 @@ johnie_walker
 * Написано на коленке
 * Требует фаерфокс (и иксы) + gems: selenium-webdriver, progress_bar + папку tmp в директории скрипта
 * Запускать так: ruby products_walker.rb
+* Так же сами знаете кто требует Flash (куки ставит в т.ч. через него)
